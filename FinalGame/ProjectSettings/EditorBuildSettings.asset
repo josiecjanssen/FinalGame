@@ -26,4 +26,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/mainmenu.unity
     guid: 933f48a5cb269459080c292606c8806b
+  - enabled: 1
+    path: Assets/Croissant Game.unity
+    guid: 6985ce3d3218b449eadecc5fb638961a
+  - enabled: 1
+    path: Assets/Fleek.unity
+    guid: 7edff51f0dc034a7c9e8e782942c881d
+  - enabled: 1
+    path: Assets/Waffle Game.unity
+    guid: d17bc468db1054a86abcdde2c7c7255e
+  - enabled: 1
+    path: Assets/Roadwork.unity
+    guid: ee82a4ec55ff64eaa9e295eeb1fa3351
   m_configObjects: {}
