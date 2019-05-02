@@ -691,7 +691,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1548c9fe3e7f044c580a9681f1581ddd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scenenumber: 4
+  scenenumber: 3
 --- !u!61 &717443676
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -861,7 +861,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1548c9fe3e7f044c580a9681f1581ddd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scenenumber: 2
+  scenenumber: 1
 --- !u!61 &835513153
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1136,7 +1136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1548c9fe3e7f044c580a9681f1581ddd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scenenumber: 3
+  scenenumber: 2
 --- !u!1 &1633591490
 GameObject:
   m_ObjectHideFlags: 0
@@ -1636,7 +1636,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1548c9fe3e7f044c580a9681f1581ddd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scenenumber: 5
+  scenenumber: 4
 --- !u!61 &1930500753
 BoxCollider2D:
   m_ObjectHideFlags: 0
