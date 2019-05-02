@@ -182,6 +182,7 @@ GameObject:
   - component: {fileID: 127788939}
   - component: {fileID: 127788942}
   - component: {fileID: 127788943}
+  - component: {fileID: 127788944}
   m_Layer: 0
   m_Name: Square (5)
   m_TagString: Untagged
@@ -315,6 +316,19 @@ MonoBehaviour:
   target: 0
   deathEffect: {fileID: 1723420520583816, guid: 0e6d7ae9fc99f42b2aad7e0ba5a4406f,
     type: 3}
+--- !u!114 &127788944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 127788938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dde7269c73c0d4a0aa7d33419579c17d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pointsWorth: 1
 --- !u!1 &189275858
 GameObject:
   m_ObjectHideFlags: 0
