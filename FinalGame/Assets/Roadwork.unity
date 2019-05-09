@@ -324,6 +324,19 @@ PolygonCollider2D:
       - {x: 0.84, y: -0.024999999}
       - {x: 0.84999996, y: 0.015}
       - {x: 0.84999996, y: 0.085}
+--- !u!114 &38026146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 38026144}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c4adaf25c56477b836b81ad48e3bdb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pointsWorth: 1
 --- !u!1001 &68272450
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -825,6 +838,19 @@ PolygonCollider2D:
       - {x: 0.84, y: -0.024999999}
       - {x: 0.84999996, y: 0.015}
       - {x: 0.84999996, y: 0.085}
+--- !u!114 &114073888
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 114073886}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c4adaf25c56477b836b81ad48e3bdb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pointsWorth: 1
 --- !u!1 &137641701
 GameObject:
   m_ObjectHideFlags: 0
@@ -1544,6 +1570,19 @@ PolygonCollider2D:
       - {x: 0.84, y: -0.024999999}
       - {x: 0.84999996, y: 0.015}
       - {x: 0.84999996, y: 0.085}
+--- !u!114 &283505229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 283505227}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c4adaf25c56477b836b81ad48e3bdb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pointsWorth: 1
 --- !u!1 &286749178
 GameObject:
   m_ObjectHideFlags: 0
@@ -2995,6 +3034,19 @@ PolygonCollider2D:
       - {x: 0.84, y: -0.024999999}
       - {x: 0.84999996, y: 0.015}
       - {x: 0.84999996, y: 0.085}
+--- !u!114 &877145387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 877145385}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c4adaf25c56477b836b81ad48e3bdb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pointsWorth: 1
 --- !u!1 &884777592
 GameObject:
   m_ObjectHideFlags: 0
@@ -3730,36 +3782,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1120706590}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: be840ffee03ed4abe9b3dc9b48f9cae7, type: 3}
+  m_Script: {fileID: 11500000, guid: b9c4adaf25c56477b836b81ad48e3bdb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: 0
-  deathEffect: {fileID: 0}
---- !u!114 &1120706593
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1120706590}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 810546aa5348745779a5772744036fd6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  actions:
-  - {fileID: 1120706592}
-  useCustomActions: 0
-  customActions:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
-  happenOnlyOnce: 0
-  filterByTag: 0
-  filterTag: Player
-  frequency: 1
-  eventType: 0
+  pointsWorth: 1
 --- !u!1 &1137539323 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1000011117960554, guid: 2003e2b60d20b4e5ea512bd20b9cdd04,
@@ -3872,6 +3898,19 @@ PolygonCollider2D:
       - {x: 0.84, y: -0.024999999}
       - {x: 0.84999996, y: 0.015}
       - {x: 0.84999996, y: 0.085}
+--- !u!114 &1137539325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1137539323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c4adaf25c56477b836b81ad48e3bdb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pointsWorth: 1
 --- !u!1 &1161850526
 GameObject:
   m_ObjectHideFlags: 0
@@ -8557,3 +8596,16 @@ PolygonCollider2D:
       - {x: 0.84, y: -0.024999999}
       - {x: 0.84999996, y: 0.015}
       - {x: 0.84999996, y: 0.085}
+--- !u!114 &2133846737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2133846735}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c4adaf25c56477b836b81ad48e3bdb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pointsWorth: 1
