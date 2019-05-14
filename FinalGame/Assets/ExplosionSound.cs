@@ -8,6 +8,8 @@ public class ExplosionSound : MonoBehaviour
     public AudioClip expClip;
     public AudioSource mySource;
 
+    public AudioClip pickClip;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -25,6 +27,15 @@ public class ExplosionSound : MonoBehaviour
         if(collision.gameObject.tag == "Player")
         {
             mySource.PlayOneShot(expClip);
+        }
+      
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Pickup")
+        {
+            mySource.Play();
         }
     }
 }
