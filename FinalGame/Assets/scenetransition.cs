@@ -36,6 +36,7 @@ public class scenetransition : MonoBehaviour
 
     private void OnMouseDown()
     {
+        Debug.Log("clicked");
         SceneManager.LoadScene(scenenumber);
 
     }
